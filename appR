@@ -1,0 +1,1171 @@
+##(1/1-(lambda/(s*mu)))
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+p5=p0*(((lambda/mu)^5/120)/2*2^(5-2))
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu))))
+##(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu)))
+##(1/1-(lambda/(s*mu)))
+p5=p0*(((lambda/mu)^5/120)/2*2^(5-2))
+lambda=20
+mu=7.5
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu))))
+##(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu)))
+##(1/1-(lambda/(s*mu)))
+p5=p0*(((lambda/mu)^5/120)/2*2^(5-2))
+lambda=20
+mu=7.5
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu))))
+##(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu)))
+##(1/1-(lambda/(s*mu)))
+p5=p0*((((lambda/mu)^5)/120)/2*2^(5-2))
+lambda=20
+mu=7.5
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu))))
+##(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu)))
+##(1/1-(lambda/(s*mu)))
+p5=p0*((((lambda/mu)^5)/120)/(2*2^(5-2)))
+lambda=20
+mu=7.5
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu))))
+##(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu)))
+##(1/1-(lambda/(s*mu)))
+p5=p0*((lambda/mu)^5)/120)
+lambda=20
+mu=7.5
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu))))
+##(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu)))
+##(1/1-(lambda/(s*mu)))
+p5=p0*(((lambda/mu)^5)/120)
+##/(2*2^(5-2)))
+lambda=20
+mu=7.5
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu))))
+##(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu)))
+##(1/1-(lambda/(s*mu)))
+p5=p0*(((lambda/mu)^5)/(2*2^(5-2)))
+##/(2*2^(5-2)))
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu))))
+##(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu)))
+##(1/1-(lambda/(s*mu)))
+p5=p0*(((lambda/mu)^5)/(2*2^(5-2)))
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu)))
+##(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu)))
+##(1/1-(lambda/(s*mu)))
+p5=p0*(((lambda/mu)^5)/(2*2^(5-2)))
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+##(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu)))
+##(1/1-(lambda/(s*mu)))
+p5=p0*(((lambda/mu)^5)/(2*2^(5-2)))
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+p5=p0*(((lambda/mu)^5)/(2*2^(5-2)))
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+pn1=(8/3)^1/1*P0
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+p1=(8/3)^1/1*P0
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+p5=p0*(((lambda/mu)^5)/(2*2^(5-2)))
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+p1=(8/3)^1/1*P0
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+p1=p0*(8/3)^1/1
+lambda=20
+mu=7.5
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu))))
+p1=p0*(8/3)^1/1
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+##(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu)))
+##(1/1-(lambda/(s*mu)))
+p5=p0*(((lambda/mu)^5)/(2*2^(5-2)))
+lambda=20
+mu=7.5
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+p1=p0*(8/3)^1/1
+lambda=20
+mu=7.5
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu))))
+p1=p0*(8/3)^1/1
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+p1=p0*(8/3)^1/1
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+p1=p0*(8/3)^1/1
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu))))
+p1=p0*(8/3)^2/2
+lambda=20
+mu=7.5
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu))))
+p1=p0*(8/3)^2/2
+lambda=20
+mu=7.5
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu))))
+p2=(8/3)^2/2
+lambda=20
+mu=7.5
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu))))
+p5=p0*(((lambda/mu)^5)/(2*2^(5-2)))
+c1=(1-p5)*lambda
+ct==c1/s
+lambda=20
+mu=7.5
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu))))
+p5=p0*(((lambda/mu)^5)/(2*2^(5-2)))
+c1=(1-p5)*lambda
+ct=c1/s
+lambda=20
+mu=7.5
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu))))
+p5=p0*(((lambda/mu)^5)/(2*2^(5-2)))
+c1=((1-p5)/7.5)*lambda
+ct=c1/s
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1-(lambda/(s*mu))^4)/(1-(lambda/(s*mu))))
+p5=p0*(((lambda/mu)^5)/(2*2^(5-2)))
+c1=((1-p5)/7.5)*lambda
+ct=c1/s
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+p5=p0*(((lambda/mu)^5)/(2*2^(5-2)))
+c1=((1-p5)/7.5)*lambda
+ct=c1/s
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+p1=p0*(8/3)^1/1
+pn=1-p0-p1
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+p1=p0*(8/3)^1/1
+pn=abs(1-p0-p1)
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+lq=p0((lambda/mu)^2)*(lambda/mu)/(2(1-20/10)^2)
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+lq=p0*((lambda/mu)^2)*(lambda/mu)/(2(1-20/10)^2)
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+lq=(p0*((lambda/mu)^2)*(lambda/mu))/(2(1-20/10)^2)
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+lq=(p0*((lambda/mu)^2)*(lambda/mu)))
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+lq=(p0*((lambda/mu)^2)*(lambda/mu))))
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+lq=(p0*((lambda/mu)^2)*(lambda/mu))
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+lq=(p0*((lambda/mu)^2)*(lambda/mu)*2)
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+lq=(p0*((lambda/mu)^2)*(lambda/mu))
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+lq=((p0*((lambda/mu)^2)*(lambda/mu)))/(2*(1-2)^2)
+##(2(1-20/10)^2)
+lambda=20
+mu=10
+N=5
+s=2
+p0=1/((lambda/mu)^0/(1)+(lambda/mu)^1/(1)+((lambda/mu)^2/(2))*(1/1-(lambda/(s*mu))))
+lq=((p0*((lambda/mu)^2)*(lambda/mu)))/(2*(1-2)^2)
+wq=lq/20
+lambda= 40/60
+mu= 2
+s= 2
+library(queueing)
+t4p3= NewInput.MMC(lambda= lambda, mu= mu, c= s, n= 40)
+CheckInput(t4p3)
+t4p3o= QueueingModel(t4p3)
+summary(t4p3o)
+lambda= 40/60
+mu= 2
+s= 2
+library(queueing)
+t4p3= NewInput.MMC(lambda= lambda, mu= mu, c= s, n= 40)
+CheckInput(t4p3)
+t4p3o= QueueingModel(t4p3)
+summary(t4p3o)
+W= L/lambdabarra # 0.1596639 hora = 9.57 minutos
+L= 1.33
+lambda= 15 #tasa de llegada
+mu= 1/15 #tasa de servicio
+c= 1 #servidores
+lambdabarra= 8.33
+W= L/lambdabarra # 0.1596639 hora = 9.57 minutos
+lambdabarra<- 8.33
+W<- L/lambdabarra
+print(W)
+lambda <-2/60  # 2 documentos por hora.
+mu1<- 3/60 # 20 minutos hasta 1 documento
+mu2<- 4/60 # 15 minutos más de 1 documento
+c1<- lambda/mu1
+c2<- (lambda*lambda)/(mu1*mu2)
+c3<- (lambda*lambda*lambda)/(mu1*mu2*mu2)
+P0 <- 1/(c1+c2+c3)
+print(P0)
+P1 <- c1*P0
+P2<- c2*P0
+P3<- c3*P0
+print(P0)
+print(P1)
+print(P2)
+print(P3)
+lambda= 2/60 #2 por hora
+mu1= 3/60 #20 minutos hasta 1 documento
+mu2= 4/60 #15 minutos mas de 1 documento
+c1= lambda/mu1
+c2= (lambda*lambda)/(mu1*mu2)
+c3= (lambda*lambda*lambda)/(mu1*mu2*mu2)
+P0= 1/(c1+c2+c3)
+P1= c1*P0
+P2= c2*P0
+P3= c3*P0
+print(P0)
+print(P1)
+print(P2)
+print(P3)
+Pn<- c(P0,P1,P2,P3)
+n<- c(0,1,2,3)
+L <- sum(n*Pn)
+print(L) # número de documentos promedio que llegarán al sistema.
+{r}
+Pn<- c(P0,P1,P2,P3)
+n<- c(0,1,2,3)
+L <- sum(n*Pn)
+print(L) # número de documentos promedio que llegarán al sistema.
+Pn= c(P0, P1, P2, P3)
+n= c(0, 1, 2, 3)
+L= sum(n*Pn)
+print(L) #El nuemero de documentos promedio que llegaran al sistema
+s<- 1
+n<-c(1,2,3,4)
+Lq<- sum((n-s)*Pn) # número de documentos en la fila esperando a ser procesados
+print(Lq)
+s= 1
+n= c(1, 2, 3, 4)
+Lq= sum((n-s)*Pn) # El numero de documentos en la fila, esperando a ser procesado
+print(Lq)
+W= L/lambda
+print(W)# 47.14286 horas= 2 días, tiempo en el que se va a procesar el documento
+Wq= Lq/lambda
+print(Wq)# tiempo que el documento va a esperar a ser procesado
+W<- L/lambda # 47.14286 horas = 2 días, tiempo en el que se va a procesar el documento
+print(W)
+Wq<- Lq/lambda #tiempo de espera en la cola para ser procesado.
+print(Wq)
+library(queueing)
+t4p5<-NewInput.MM1K(lambda=lambda, mu=media,k=4)
+lambda <- 4/60
+s<- 1
+media <- 4/60
+n<-3
+print(media)
+library(queueing)
+t4p5<-NewInput.MM1K(lambda=lambda, mu=media,k=4)
+CheckInput(t4p5)
+t4p5o<-QueueingModel(t4p5)
+summary(t4p5o)
+Pn<- c(P0,P1,P2,P3)
+n<- c(0,1,2,3)
+L <- sum(n*Pn)
+print(L) # número de documentos promedio que llegarán al sistema.
+lambda <- 4/60
+s<- 1
+media <- 4/60
+n<-3
+print(media)
+library(queueing)
+t4p5<-NewInput.MM1K(lambda=lambda, mu=media,k=4)
+CheckInput(t4p5)
+t4p5o<-QueueingModel(t4p5)
+summary(t4p5o)
+lambda <- 4/60
+s<- 1
+media <- 4/60
+n<-3
+print(media)
+library(queueing)
+t4p5<-NewInput.MM1K(lambda=lambda, mu=media,k=4)
+CheckInput(t4p5)
+t4p5o<-QueueingModel(t4p5)
+Pn(t4p5o)
+Pn(t4p5o)
+lambda <- 4/60
+s<- 1
+media <- 4/60
+n<-3
+print(media)
+library(queueing)
+t4p5<-NewInput.MM1K(lambda=lambda, mu=media,k=4)
+CheckInput(t4p5)
+t4p5o<-QueueingModel(t4p5)
+summary(t4p5o)
+L(t4p5o) #cantidad esperada de clientes en la peluqueria es 2.
+W(t4p8co)
+mu<- 4/60
+lambda<- 30/60
+s<-4
+library(queueing)
+t4p8a<-NewInput.MMCK(lambda=lambda, mu=media,k=4)
+CheckInput(t4p5)
+t4p8ao<-QueueingModel(t4p8a)
+summary(t4p8a)
+W(t4p8co)
+t4p8b<- NewInput.MMCKK(lambda=lambda, mu=mu, c=s, k=25)
+CheckInput(t4p8b)
+t4p8bo<- QueueingModel(t4p8b)
+t4p8c<- NewInput.MMCKM(lambda=lambda, mu=mu, c=s, k=s, m=25)
+CheckInput(t4p8b)
+t4p8co<- QueueingModel(t4p8c)
+CompareQueueingModels(t4p8ao,t4p8bo)
+W(t4p8co)
+t4p8c<- NewInput.MMCKM(lambda=lambda, mu=mu, c=s, k=s, m=25)
+CheckInput(t4p8b)
+t4p8co<- QueueingModel(t4p8c)
+CompareQueueingModels(t4p8ao,t4p8bo)
+Lq(t4p8co)
+#Calcular la P0(probabilidad de que haya cero clientes en el sistema es de 2.438255e-08*100)
+L(t4p8co)-Lq(t4p8co)
+#Calcular la P0(probabilidad de que haya cero clientes en el sistema es de 2.438255e-08*100)
+2.438255e-08*100
+#Calcular la P0(probabilidad de que haya cero clientes en el sistema es de 2.438255e-08*100)
+p0=2.438255e-08*100
+pn(p0)
+#Calcular la P0(probabilidad de que haya cero clientes en el sistema es de 2.438255e-08*100)
+p0=2.438255e-08*100
+PN(p0)
+mu<- 4/60
+lambda<- 30/60
+s<-4
+library(queueing)
+t4p8a<-NewInput.MMCK(lambda=lambda, mu=media,k=4)
+CheckInput(t4p5)
+t4p8ao<-QueueingModel(t4p8a)
+summary(t4p8a)
+t4p8b<- NewInput.MMCKK(lambda=lambda, mu=mu, c=s, k=25)
+CheckInput(t4p8b)
+t4p8bo<- QueueingModel(t4p8b)
+t4p8c<- NewInput.MMCKM(lambda=lambda, mu=mu, c=s, k=s, m=25)
+CheckInput(t4p8b)
+t4p8co<- QueueingModel(t4p8c)
+CompareQueueingModels(t4p8ao,t4p8bo)
+mu<- 4/60
+lambda<- 30/60
+s<-4
+library(queueing)
+t4p8a<-NewInput.MMCK(lambda=lambda, mu=media,k=4)
+CheckInput(t4p5)
+t4p8ao<-QueueingModel(t4p8a)
+summary(t4p8a)
+t4p8b<- NewInput.MMCKK(lambda=lambda, mu=mu, c=s, k=25)
+CheckInput(t4p8b)
+t4p8bo<- QueueingModel(t4p8b)
+t4p8c<- NewInput.MMCKM(lambda=lambda, mu=mu, c=s, k=s, m=25)
+CheckInput(t4p8b)
+t4p8co<- QueueingModel(t4p8c)
+CompareQueueingModels(t4p8ao,t4p8bo)
+install.packages("shiny")
+install.packages("shinyjs")
+shiny::runApp('C:/Users/Proyecto/JacksonInn')
+setwd("C:/Users/Proyecto")
+setwd("C:/Users/Proyecto")
+shiny::runApp('C:/Users/Proyecto/JacksonInn')
+detach("package:shiny", unload = TRUE)
+detach("package:shinyjs", unload = TRUE)
+library(shinyjs)
+library(shiny)
+detach("package:shinyjs", unload = TRUE)
+shiny::runApp('C:/Users/Proyecto/JacksonInn')
+runApp('C:/Users/Proyecto/JacksonInn')
+library(shinyWidgets)
+runApp('JacksonInn')
+runApp()
+runApp('JacksonInn')
+runApp('JacksonInn')
+runApp('JacksonInn')
+runApp('JacksonInn')
+
+library(shiny)
+library(shinyjs)
+library(shinyWidgets)
+library(queueing)
+library(markovchain)
+# Define UI for app that draws a histogram ----
+ui <- 
+  fillPage(
+    tagList(
+      useShinyjs()
+    ),
+  tags$head(
+  #InformaciÃ³n guardada en el encabezado de la pagina html
+  #Aqui se agrega tanto la nueva fuente como los estillos css
+    #Se modifican tanto los componentes agregados por shiny como div utilizados
+    #Cada que se agrega un componte div y se desea utilizar un diseÃ±o comÃºn se declara un atributo clase
+    #Esta clase se utiliza en el css para darle estilo
+    #Por lo que pudimos provar el atributo id no se refleja para su uso en css por lo que desaconsejamos su uso para tratar de aÃ±adir estilos.
+    tags$style(HTML("
+        @import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap');
+        body {
+          family-font:'Yusei Magic', sans-serif;
+          display:grid;
+          background-color: white;
+          color: black;
+          margin:0px;
+          padding:0px;
+          min-height: 100%;
+          overflow-y: auto;
+        }
+        h2 {
+          font-family: 'Yusei Magic', sans-serif;
+        }
+        .navbar-nav {
+         float: none !important;
+                           }
+        .nav-tabs > li {
+          float: right;
+          margin-bottom: -1px;
+        }
+        .row{
+          height:85%;
+        }
+        
+        .col-sm-4{
+          width:20%;
+        }
+        
+        .col-sm-8{
+          width:80%;
+        }
+                
+        .col-sm-8 > .irs--shiny.irs-with-grid {
+          height: 60px;
+        }
+        .col-sm-4, #sidebarcustom { height: 100%; }
+        .irs--shiny.irs-with-grid {
+          height: 60px;
+        }
+        .well{
+          height:auto;
+        }
+        .shiny-input-container {
+          color: #474747
+          width:120px;
+        }
+        div.serversinputs div.input{
+          margin-right:20px;
+          width:30%;
+        }
+        .inputspan{
+          display:flex;
+          justify-content:center;
+          color:#a00;
+        }
+        .row{
+          display:flex;
+          justify-content: space-between;
+        }
+        .row > .shiny-input-container{
+        width:100px;
+        }
+        *{
+              font-family: 'Yusei Magic', sans-serif;
+        }
+                    "))
+  ),
+  # App title ----
+  #("Jackson Inn"),
+  #A travÃ©s del atributo style se puede aplicar un estilo personalizado a un div en particular.
+  #Ãtil cuando el mismo estilo no sera utilizado nuevamente, pero desaconsejamos su uso. En su lugar deberia de incluirse en el css de la cabezera, no aquÃ­.
+  
+  #El objetivo de este div es proveer el estilo css necesario para colocar en el centro el icono de la aplicacion.
+  div(style = "padding-top:5px;padding-bottom:10px;margin-bottom:10px;widt:100%;box-shadow: 0 3px 15px 0px rgba(0,0,0,0.1);",
+  img(style = "margin-left:auto;margin-right:auto;display:block",src = "JacksonHouse_vert_black.png", height = 50, width = 50, align="center")
+  ),
+  
+  #Este div encapsula el componente creado por Shiny para usar una barra lateral. Se usa el div para cambiar el tamaÃ±o y la posicion de la barra lateral y evitar usar el predeterminado.
+  div(style = "padding-left:5px;padding-top:5px;width:100%;height:100%;margin-bottom:10px;",
+  
+  # Sidebar layout with input and output definitions ----
+  sidebarLayout( 
+    # Sidebar panel for inputs ----
+    sidebarPanel(
+      
+      #La mayoria de los div presentes se usan como intermediarios para el cambio del diseÃ±o de los componentes de shiny.
+      div(id="sidebarcustom",style = "height=100%;",
+      # Los slider input son componentes agregados por shiny y permitn ingresar valores numericos ----
+      # Shiny provee un deslizador y todo el codigo necesario para su uso.
+      # Estos slider se usan para ingresar las tasas de llegada a cada uno de los tres nodos
+      # Ademas se usan los slider necesarios para ingresar tambien las tasas de servicio por servidor en el nodo.
+      #Slider utilizado para ingresar la tasa de llegada al estacionamiento de manera externa al sistema
+      sliderInput(inputId = "arrivalParking",
+                  label = "Parking arrival Î»p rate",
+                  min = 0,
+                  max = 50,
+                  value = 1,step=0.2),
+      #Slider utilizado para ingresar la tasa de servicio en el estacionamiento
+      sliderInput(inputId = "serviceParking",
+                  label = "Parking service Î¼p rate",
+                  min = 1,
+                  max = 50,
+                  value = 10,step=0.2),
+      #Slider utilizado para ingresar la tasa de llegada a la recepciÃ³n de manera externa al sistema
+      sliderInput(inputId = "arrivalReception",
+                  label = "Reception arrival Î»r rate",
+                  min = 0,
+                  max = 50,
+                  value = 4,step=0.2),
+      #Slider utilizado para ingresar la tasa de servicio en recepciÃ³n
+      sliderInput(inputId = "serviceReception",
+                  label = "Reception service Î¼r rate",
+                  min = 1,
+                  max = 25,
+                  value = 10,step=0.2),
+      #Slider utilizado para ingresar la tasa de llegada al elevador de manera externa al sistema
+      sliderInput(inputId = "arrivalElevator",
+                  label = "Elevator arrival Î»e rate",
+                  min = 0,
+                  max = 50,
+                  value = 3,step=0.2),
+      #Slider utilizado para ingresar la tasa de servicio del elevador 
+      sliderInput(inputId = "serviceElevator",
+                  label = "Elevator service Î¼e rate",
+                  min = 1,
+                  max = 30,
+                  value = 10,step=0.2),
+      #Tambien se agrega una casilla de verificaciÃ³n
+      #Esta casilla nos permite elegir si deseamos que el sistema calcule el numero de servidores optimo por nodo.
+      #Cuando esta activado bloquea ademÃ¡s la seleccion personalizada de numero de servidores.
+      checkboxInput(inputId = "autoServers",
+                 label = "Allow auto select number of servers",
+                 value = TRUE),
+      #checkboxInput(inputId="cost",label ="Cost pronostics", value = FALSE)
+
+      )
+    ),
+    # El componente main panel es usado junto a SlideBarPanel para mostrar tanto un area principal como una barra lateral
+    # Main panel for displaying outputs ----
+    mainPanel(
+      # Tab set panel nos permite separar la informaciÃ³n en diferentes pestaÃ±as
+      # Cada pestaÃ±a es representada por cada objeto TabPanel
+      tabsetPanel(
+        tabPanel("Summary",
+             div(tableOutput("tableNet"))
+             #Aqui se presenta la tabla creada en la salida tableNet
+             #Se utiliza la funcion summary del modelo OJN del paquete queuing para obtener la tabla de informaciÃ³n.
+                 ), 
+        tabPanel("Plot",
+                 div(plotOutput("markovPlot"))
+                 #Aqui se presenta una grafica creada en la salida nombrada markovPlot
+                 #Al no encontrar una interfaz grafica recurrimos a los diagramas de estado creados para representar cadenas de markov en el paquete markovchain
+                 ), 
+        tabPanel("Overview",
+            #Este div encapsula los slider inputs vinculados al numero de servidores en cada nodo.
+            div(class="serversinputs",
+                style="display:flex;height:100%;width:95%;justify-content: space-between;",
+                #Los div utilizados aqui permiten redistribuir los slider en el espacio disponible de la ventana.
+                #Cada div de la clase input almacena un slider y un div de la clase inputspan
+                #Los div inputspan son utilizados para informar al usario sobre el ajuste personalizado del numero de servidores en el nodo.
+                div(class="input",
+                sliderInput(inputId = "serversParking",
+                            label = "Parking lots",
+                            min = 1,
+                            max = 50,
+                            value = 1),
+                div("",class="inputspan",id="inputspanParking")
+                ),
+                div(class="input",
+                sliderInput(inputId = "serversReception",
+                            label = "Receptionists",
+                            min = 1,
+                            max = 15,
+                            value = 2),
+                div("",class="inputspan",id="inputspanReception")
+                ),
+                div(class="input",
+                sliderInput(inputId = "serversElevator",
+                            label = "Elevators",
+                            min = 1,
+                            max = 10,
+                            value = 1),
+                div("",class="inputspan",id="inputspanElevator")
+               )
+                
+                ),
+            #Este div contiene los componentes necesarios para ingresar probabilidad de transicion entre nodos asÃ­ como probabiliad de salida del sistema desde un nodo en especifico
+        div(class="customcontent",
+            div(class="datagrid",style="display:flex;height:100%;width:100%;justify-content:space-between;padding-right:10px",
+            div(class="transition",
+                style="display:block;height:100%;width:60%;",
+                #Se crea y diseÃ±a la tabla que contiene la matriz de transiciÃ³n
+                div(class="row",div("Parking",style="align-self:center;"),div("Reception",style="align-self:center;"),div("Elevator",style="align-self:center"),),
+                  div(class="row",div("Parking",style="width:65px;align-self:center"),
+                      shiny::numericInput(inputId ="r11",label="r11",value = 0,min = 0,max = 1,step = 0.1),
+                      shiny::numericInput(inputId ="r12",label="r12",value = 0,min = 0,max = 1,step = 0.1),
+                      shiny::numericInput(inputId ="r13",label="r13",value = 0,min = 0,max = 1,step = 0.1)
+                      ),
+                  div(class="row",div("Reception",style="width:65px;align-self:center"),
+                      shiny::numericInput(inputId ="r21",label="r21",value = 0,min = 0,max = 1,step = 0.1),
+                      shiny::numericInput(inputId ="r22",label="r22",value = 0,min = 0,max = 1,step = 0.1),
+                      shiny::numericInput(inputId ="r23",label="r23",value = 0,min = 0,max = 1,step = 0.1)
+                  ),
+                  div(class="row",div("Elevator",style="width:65px;align-self:center"),
+                      shiny::numericInput(inputId ="r31",label="r31",value = 0,min = 0,max = 1,step = 0.1),
+                      shiny::numericInput(inputId ="r32",label="r32",value = 0,min = 0,max = 1,step = 0.1),
+                      shiny::numericInput(inputId ="r33",label="r33",value = 0,min = 0,max = 1,step = 0.1)
+                  )
+                
+                ),
+            #Se agrega una Ã¡rea en la regiÃ³n derecha para especificar la probabilidad de salida del sistema por nodo.
+            #Esta Ã¡rea sera administrada por el programa, por lo que su uso sera eshabilitado para el usuario.
+            div(class="leavings",
+                style="display:block;height:100%;width:18%;",
+                shiny::numericInput(inputId ="r10",label="r10",value = 0,min = 0,max = 1,step = 0.1),
+                shiny::numericInput(inputId ="r20",label="r20",value = 0,min = 0,max = 1,step = 0.1),
+                shiny::numericInput(inputId ="r30",label="r30",value = 0,min = 0,max = 1,step = 0.1)
+            )
+            )
+            )
+            
+            ),selected = "Overview"
+        #El atributo selected especifica cual pestaÃ±a sera seleccionada por defecto al iniciar la aplicaciÃ³n
+      )
+      
+    ))
+  ),
+  #Se agrega un div en el area inferior para aumentar la altura total de la pagina y mejorar el estilo generarl de la misma. Este es un objeto estetico no necesario como la mayoria de los div presentados.
+  div(style = "min-height:120px; background-color:#f0f0f0")
+)
+
+# Define server logic required to draw a histogram ----
+server <- function(input, output,session) {
+  
+  #Este cÃ³digo permite que se resguarde el numero de servidores al iniciar la aplicaciÃ³n
+  #Se usara posteriormente para informar al usario sobre un cambio en el numero de servidores que la aplicacion realice.
+  Loaded = FALSE
+  oldServers = c(0,0,0)
+  observe({
+    if(Loaded){
+    oldServers = c(input$serversParking,input$serversReception,input$serversElevator)
+    Loaded=TRUE}
+    })
+  
+  #Se inhabilitan los componentes que seran administrados por la aplicaciÃ³n
+  #Se requiere el paquete shinyjs para usar este metodo
+  shinyjs::disable('r10')
+  shinyjs::disable('r20')
+  shinyjs::disable('r30')
+  
+  
+  #Este objeto sera el encargado de crear la representaciÃ³n grÃ¡fica del sistema
+  #Usamos la grafica de una cadena de markov para lograr esto.
+  output$markovPlot <- renderPlot({
+    
+  #Recuperamos el nÃºmero de lleadas por nodo y calculamos el numero total de llegadas.
+  a = c(input$arrivalParking,input$arrivalReception,input$arrivalElevator)
+  aT = sum(a)
+  #Para poder representar correctamente el sistema como una cadena de markov reinterpretamos la matriz de probabilidades.
+  #Usamos una cadena de markov de cinco estaos en lugar de una de tres para representar correctamente su funcionamiento y cumplir con los requisitos mÃ­nimos para crear una cadena de markov
+  #Una cadena de markov debe poseer una matriz de transiciÃ³n cuyos valores por fila sumen 1, eto es imposible en la mayorÃ­a de los casos si se usa la matriz de transiciÃ³n simple e una red de Jackson
+  
+  
+  estados=c("Arrive","Parking","Reception","Elevator","Leave")
+  #Los estados utilizados representan la llegada, el uso del estacionamiento, la estadÃ­a en recepciÃ³n, el uso del elevador y la salida del sistema.
+    r = c(c(000,a[1]/aT,a[2]/aT,a[3]/aT,000),
+          c(000,input$r11,input$r12,input$r13,input$r10),
+          c(000,input$r21,input$r22,input$r23,input$r20),
+          c(000,input$r31,input$r32,input$r33,input$r30),
+          c(000,000,000,000,001))
+    #Una vez dentro del sistema no se pude volver a entrar a el o salir de el por lo que se trata de un estado transitorio.
+    #El estado de llegada solo puede llevar al uso de los servicios de la red de Jackson
+    #Esta probabilidad e calcula al comparar la llegada por nodo contra la llegada total a sistema
+    
+    #NingÃºn nodo pude regresar al estado de entrada, y la probabilidad de salida desde determinado nodo se determina al calcular la probabilidad complementaria de cambiar a cualquier oro nodo.
+    
+    #Al salir del sistema no se puede volver a entrar a el, por lo que es un estado absorbente. 
+    mc=new("markovchain",name="Transision", transitionMatrix=matrix(data=r,byrow=TRUE,nrow=5, dimnames=list(estados,estados)))
+    #Se crea la grÃ¡fica de la cadena de markov.
+    plot(mc)
+    
+  })
+  
+  
+  #Detecta el cambio de la casilla de verificaciÃ³n que permite la selecciÃ³n automÃ¡tica de servidores en la red.
+  autoServer<-reactive(input$autoServers)
+  observeEvent(autoServer(), {
+    if(autoServer()==TRUE){
+      shinyjs::disable('serversParking')
+      shinyjs::disable('serversReception')
+      shinyjs::disable('serversElevator')
+      
+    } else{
+      shinyjs::enable('serversParking')
+      shinyjs::enable('serversReception')
+      shinyjs::enable('serversElevator')
+      
+    }
+  })
+  
+  #Este objeto administra la presentaciÃ³n y creaciÃ³n de la tabla descriptiva de la red de Jackson.
+  output$tableNet <- renderTable({
+    
+    #Se recuperan los datos de la red y de cada uno de sus nodos
+    k= 3
+    a = c(input$arrivalParking,input$arrivalReception,input$arrivalElevator)
+    s = c(input$serversParking,input$serversReception,input$serversElevator)
+    m = c(input$serviceParking,input$serviceReception,input$serviceReception)
+    #Se colocan los datos en matrices para su posterior uso
+    arrivals = matrix(a,nrow = k,byrow = TRUE)
+    servers = matrix(s,nrow = k,byrow = TRUE)
+    miu = matrix(m,nrow = k,byrow = TRUE)
+    
+    #Se extrae la matriz de transiciÃ³n
+    transition = c( c(input$r11,input$r12,input$r13),
+                    c(input$r21,input$r22,input$r23),
+                    c(input$r31,input$r32,input$r33))
+    p = matrix(transition,nrow = k,byrow = TRUE)
+    
+    #Se crean los modelos de cada nodo
+    #El comportamiento de los nodos sigue en la mayorÃ­a de los casos el modelo MMC
+    #El modelo MMC se provee en el paquete queueing
+    Estacionamiento = NewInput.MMC(lambda=arrivals[1], mu=miu[1], c=servers[1], n=0, method=0)
+    Recepcion = NewInput.MMC(lambda=arrivals[2], mu=miu[2], c=servers[2], n=0, method=0)
+    Elevador = NewInput.MMC(lambda=arrivals[3], mu=miu[3], c=servers[3], n=0, method=0)
+    
+    #Se incorporan la matriz de tranciciÃ³n y los modelos de cada nodo en el modelo de la red de Jackson
+    #OJN define un modelo de red de Jackon abierto (es decir, que permite llegadas externas al sistema)
+    Red = NewInput.OJN(p,Estacionamiento,Recepcion,Elevador)
+    CheckInput(Red)
+    Modelo= QueueingModel(Red)
+    #Se crea la tabla descriptiva de la red
+    summary(Modelo)[1]
+    
+    })
+  
+  #Este bloque de cÃ³digo monitorea eventos recurrentes
+  observe({
+    
+    #Cada que una casilla de la matriz de transiciÃ³n es modificada, se asigna una nuevo valor la salida de los nodos.
+    #Este valor es especialmente util cuando se quiere representar esto a travÃ©s de un diagrama de markov.
+    #Simplemente completamos el espacio muestral de la probabilidad de que se cambie de nodo o se salga del sistema.
+    # En una red de Jackson siempre que no se cambie de nodo (esto incluye regresar al mismo nodo), se sale del sistema.
+    sum1 = 1-(input$r11+input$r12+input$r13)
+    sum2 = 1-(input$r21+input$r22+input$r23)
+    sum3 = 1-(input$r31+input$r32+input$r33)
+    updateSliderInput(session, "r10", value=sum1)
+    updateSliderInput(session, "r20", value=sum2)
+    updateSliderInput(session, "r30", value=sum3)
+    
+    
+    # Este codigo es utilizado para corregir el comportamiento inadecuado de los limites establecidos en el componente numericInput del paquete shiny.
+    #Este codigo no sera necesario una vez que los desarrolladores de shiny arreglen el bug que permite que el numero representado por un numericInput supere los valores establecidos como limites.
+    if(input$r11<0){updateSliderInput(session, "r11", value=0)}
+    if(input$r11>1){updateSliderInput(session, "r11", value=1)}
+    
+    if(input$r12<0){updateSliderInput(session, "r12", value=0)}
+    if(input$r12>1){updateSliderInput(session, "r12", value=1)}
+    
+    if(input$r13<0){updateSliderInput(session, "r13", value=0)}
+    if(input$r13>1){updateSliderInput(session, "r13", value=1)}
+    
+    if(input$r21<0){updateSliderInput(session, "r21", value=0)}
+    if(input$r21>1){updateSliderInput(session, "r21", value=1)}
+    
+    if(input$r22<0){updateSliderInput(session, "r22", value=0)}
+    if(input$r22>1){updateSliderInput(session, "r22", value=1)}
+    
+    if(input$r23<0){updateSliderInput(session, "r23", value=0)}
+    if(input$r23>1){updateSliderInput(session, "r23", value=1)}
+    
+    if(input$r31<0){updateSliderInput(session, "r31", value=0)}
+    if(input$r31>1){updateSliderInput(session, "r31", value=1)}
+    
+    if(input$r32<0){updateSliderInput(session, "r32", value=0)}
+    if(input$r32>1){updateSliderInput(session, "r32", value=1)}
+    
+    if(input$r33<0){updateSliderInput(session, "r33", value=0)}
+    if(input$r33>1){updateSliderInput(session, "r33", value=1)}
+    
+    if(input$r10<0){updateSliderInput(session, "r10", value=0)}
+    if(input$r10>1){updateSliderInput(session, "r10", value=1)}
+    
+    if(input$r20<0){updateSliderInput(session, "r20", value=0)}
+    if(input$r20>1){updateSliderInput(session, "r20", value=1)}
+    
+    if(input$r30<0){updateSliderInput(session, "r30", value=0)}
+    if(input$r30>1){updateSliderInput(session, "r30", value=1)}
+    
+    
+    
+    #En esta Ã¡rea se realiza la selecciÃ³n automÃ¡tica del numero de servidores por nodo.
+    if(input$autoServers==TRUE){
+      
+      #Se recuperan los datos de la red y de cada uno de sus nodos
+      k= 3
+      a = c(input$arrivalParking,input$arrivalReception,input$arrivalElevator)
+      s = c(input$serversParking,input$serversReception,input$serversElevator)
+      m = c(input$serviceParking,input$serviceReception,input$serviceReception)
+      
+      #Se crean matrices que contengan la informaciÃ³n de cada nodo
+      arrivals = matrix(a,nrow = k,byrow = TRUE)
+      servers = matrix(s,nrow = k,byrow = TRUE)
+      miu = matrix(m,nrow = k,byrow = TRUE)
+      
+      #Se recupera la matriz de transiciÃ³n entre nodos
+      transition = c( c(input$r11,input$r12,input$r13),
+                      c(input$r21,input$r22,input$r23),
+                      c(input$r31,input$r32,input$r33))
+      p = matrix(transition,nrow = k,byrow = TRUE)
+      
+      #La tasa de entrada es igual a la tasa de salida, entonces la tasa de llegada a otro nodo esta dado por la   tasa de salida multiplicado por la probabilidad de transiciÃ³n
+      #LLegadas totales a cada nodo = Lambda
+      #Tasas de llegadas al nodo i extenas al sistema = arrivals_i
+      #Tasas de llegadas a un nodo i desde otros nodos = t(p)*Lamda_i
+      #TransiciÃ³n de nodo i a nodo j = p_i
+      #TransiciÃ³n de nodo j a nodo i = t(p)_i
+      #Todas las llegadas a cualquier nodo es igual a las salidas de los otros nodos por lo que:
+      #Para cada nodo i:
+        #Legadas totales en i = Llegadas externas en i+ llegadas desde dentro del sistema a i
+      #Lambda_i = arrivals_i + t(p_i) * Lambda_i
+      #Para solucionarlo se resuelve para cada nodo que:
+        #arrivals_i + t(p_i) * Lambda_i - Lambda_i= 0
+      #Pero su solucion es mÃ¡s compleja de manera matricial.
+      #Matriz de tasas de llegadas externas= arrivals
+      #Matriz de tasas de llegadas internas = t(p)*Lamda
+      #Matriz de transiciÃ³n de i a j= p
+      #Matriz de transiciÃ³n inversa j a i= t(p)
+      #     Arrivals + t(p)*Lambda - Lambda = 0
+      
+      #Ajustamos para convertir en un sistema de ecuaciones
+      #     t(p)*Lambda - aux = -Arrivals
+      #donde para cada nodo
+          #(t(p_i)-1)Lambda_i = -Arrivals_i
+      #Esto da como resultado un sistema de ecuaciones
+      #      t(p)*Lambda - Lambda = -Arrivals
+      # Sin embargo no se puede restar Lambda puesto que no es de dimensiones identicas a las de la matriz de trancision,
+      # Entonces se usa una matriz auxiliar para realizar la resta
+      
+      aux = c(c(001,000,000),
+              c(000,001,000),
+              c(000,000,001))
+      #      t(p)*Lambda - aux = -Arrivals
+      #Ya que conocemos el resto de los valores de la variables, nuestra unica incognia es el valor de Lambda, las tasas totales de llegada al sistema.
+      # Se obtiene una matriz de resultados y tambiÃ©n una matriz de coeficientes por lo que se puede obtener una matriz de resultados con las tasas de llegada a cada nodo tomando en cuenta las entradas externas e internas del sistema
+      #Utilizamos la funciÃ³n solve para encontrar los valores que cumplan con el sistema de ecuaciones.
+      Lambda = solve(t(p)-aux,-arrivals)
+      #distribucion de clientes
+      dc = Lambda/(servers*miu) #R0k 
+      #CondiciÃ³n de no saturaciÃ³n: siempre que dc = Lambda/(servers*miu)<1
+      #Es decir el sistema no esta saturado siempre que la utilizaciÃ³n del servicio sea menor al 100%
+      if(sum(dc>1)>0){
+        #Cuando cualquier nodo esta saturado se calcula un numero de servidores que no sature el servicio.
+        #Para esto se calcula el nÃºmero de servidores con el cual es sistema se sature exactamente al 100% y se agrega uno para solventar la saturaciÃ³n y trabajar con un numero menor de saturaciÃ³n cercano al 100%
+        #si: saturaciÃ³n = 1 = Lambda/(servers*miu)
+        #Entonces los servidores con los que se tiene una saturaciÃ³n del 100% son
+        #servers = Lambda/miu
+        #Cualquier numero mayor provocarÃ­a la disminuciÃ³n de la utilizaciÃ³n del nodo ya que este es inversamente proporcional al numero de servidores.
+        servers = floor(Lambda/miu)+1
+        #Esta area actualiza el aspecto de cada componente para indicar que se a cambiado su contenido automaticamente, es decir se ha elejido un nuevo numero de servidores
+        if(input$serversParking!=servers[1]){
+        updateSliderInput(session, "serversParking", value = servers[1])
+        shinyWidgets::setSliderColor(color = "#f00",sliderId = 7)
+        html(id="inputspanParking",html=paste("From ",oldServers[1]," to ",servers[1]))
+        shinyjs::show(id="inputspanParking")}
+        if(input$serversReception!=servers[2]){
+        updateSliderInput(session, "serversReception", value = servers[2])
+        shinyWidgets::setSliderColor(color = "#f00",sliderId = 8)
+        html(id="inputspanReception",html=paste("From ",oldServers[2]," to ",servers[2]))
+        shinyjs::show(id="inputspanReception")}
+        if(input$serversElevator!=servers[3]){
+        updateSliderInput(session, "serversElevator", value = servers[3])
+        shinyWidgets::setSliderColor(color = "#f00",sliderId = 9)
+        html(id="inputspanElevator",html=paste("From ",oldServers[3]," to ",servers[3]))
+        shinyjs::show(id="inputspanElevator")}
+      }
+      
+      
+    }else{
+      #cuando no se quiere utilizar el sistema automÃ¡tico de seleccion de servidores se revierten los componentes a su diseÃ±o original
+      oldServers = c(input$serversParking,input$serversReception,input$serversElevator)
+      shinyWidgets::setSliderColor(color = "#428bca",sliderId = 7)
+      shinyWidgets::setSliderColor(color = "#428bca",sliderId = 8)
+      shinyWidgets::setSliderColor(color = "#428bca",sliderId = 9)
+      html(id="inputspanParking",html="")
+      html(id="inputspanReception",html="")
+      html(id="inputspanElevator",html="")
+      
+      #Html modifica el contenido dentro de un objeto html como div, mientras que updateSliderInput actualiza un componente SliderInput de shiny, y setSliderColor modifica el color de dichos SliderInput, sin embargo no ha tenido ningun cambio perceptible en tiempo de ejecuciÃ³n.
+    }
+  })
+  
+}
+
+# Create Shiny app ----
+shinyApp(ui = ui, server = server)
+---
+title: "Projecto Jackson Inn"
+author: "Ernesto Carrera de la Peña"
+date: "23/5/2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(shiny)
+library(queueing)
+
+```
+```{r}
+```
+
+## Uso de una red de Jackson para describir el servicio dado por un hoter
+
+
+Estacionamiento
+Recepcion
+Elevador
+
+.      ES    RE    EL
+ES      
+RE    
+EL    
+
+Se considera que son redes de Jackson abiertas cuando
+a) La llegada externa a cualquier nodo es Poisson yi
+b) Todos los servidores de cada etapa tienen un servicio exponencial de media ui
+c) De cada etapa i un cliente se mueve a otra etapa j con una probabilidad de r_i,j y la probabilidad de salir del sistema desde esa etapa i es de r_i,0
+
+
+```{r }
+
+k=3
+arrivals = matrix(c(1,4,3),nrow = k,byrow = TRUE)
+servers = matrix(c(1,2,1),nrow = k,byrow = TRUE)
+miu = matrix(c(10,10,10),nrow = k,byrow = TRUE)
+
+arrivals
+servers
+miu
+#La tasa de entrada es igual a la tasa de salida, entonces la tasa de llegada a otro nodo esta dado por la tasa de salida multiplicado por la probabilidad de transición
+
+aux = c(c(001,000,000),
+        c(000,001,000),
+        c(000,000,001))
+
+r = c(c(000,0.6,0.3),
+      c(0.1,000,0.3),
+      c(0.4,0.4,000))
+#r_ij : probalidad de ir de i a j
+p = matrix(r,nrow = k,byrow = TRUE) #Tasa de procesos que salen del nodo i al j
+
+#Tasas de llegada
+#Lambda = arrivals + t(p) * Lambda
+#     -Arrivals =  t(p)*Lambda - Lambda
+# No se puede restar puesto que no es de dimensiones identicas,
+# entonces se usa una matriz auxiliar para relizar la resta
+#     -Arrivals =  t(p)*Lambda - aux
+# Se obtiene una matriz de resultados y tambien una matriz de coeficientes por lo que se puede obtener una matriz de resultados con las tasas de llegada a cada nodo tomando en cuenta las entradas externas e internas del sistema
+Lambda = solve(t(p)-aux,-arrivals)
+
+#Se pueden usar las fomulas de modelo M/M/s para cada nodo
+
+#distribucion de clientes
+dc = Lambda/(servers*miu) #R0k
+#Condicion de no saturacion siempre que dc(p_n) sea menor a 1
+n1 = NewInput.MMC(lambda=arrivals[1], mu=miu[1], c=servers[1], n=0, method=0)
+n2 = NewInput.MMC(lambda=arrivals[2], mu=miu[2], c=servers[2], n=0, method=0)
+n3 = NewInput.MMC(lambda=arrivals[3], mu=miu[3], c=servers[3], n=0, method=0)
+
+#Definir las probabilidades de transición
+i_ojn1 = NewInput.OJN(p,n1,n2,n3)
+CheckInput(i_ojn1)
+o_ojn1 = QueueingModel(i_ojn1)
+summary(o_ojn1)
+```
+
+## Including Plots
+
+```{r}
+
+k=3
+arrivals = matrix(c(20,10,0),nrow = k,byrow = TRUE)
+servers = matrix(c(1,1,5),nrow = k,byrow = TRUE)
+miu = matrix(c(15,15,15),nrow = k,byrow = TRUE)
+
+arrivals
+servers
+miu
+#La tasa de entrada es igual a la tasa de salida, entonces la tasa de llegada a otro nodo esta dado por la tasa de salida multiplicado por la probabilidad de transición
+
+r = c(c(000,0.5,0.5),
+      c(000,000,001),
+      c(000,000,0.75))
+
+
+
+aux = c(c(001,000,000),
+        c(000,001,000),
+        c(000,000,001))
+
+#r_ij : probalidad de ir de i a j
+p = matrix(r,nrow = k,byrow = TRUE) #Tasa de procesos que salen del nodo i al j
+
+#Tasas de llegada
+#Lambda = arrivals + t(p) * Lambda
+#     -Arrivals =  t(p)*Lambda - Lambda
+# No se puede restar puesto que no es de dimensiones identicas,
+# entonces se usa una matriz auxiliar para relizar la resta
+#     -Arrivals =  t(p)*Lambda - aux
+# Se obtiene una matriz de resultados y tambien una matriz de coeficientes por lo que se puede obtener una matriz de resultados con las tasas de llegada a cada nodo tomando en cuenta las entradas externas e internas del sistema
+Lambda = solve(t(p)-aux,-arrivals)
+
+#Se pueden usar las fomulas de modelo M/M/s para cada nodo
+
+#distribucion de clientes
+dc = Lambda/(servers*miu) #R0k
+if(sum(dc>1)>0){
+  servers = floor(Lambda/miu)+1
+}
+#Condicion de no saturacion siempre que dc(p_n) sea menor a 1
+Estacionamiento = NewInput.MMC(lambda=arrivals[1], mu=miu[1], c=servers[1], n=0, method=0)
+Recepcion = NewInput.MMC(lambda=arrivals[2], mu=miu[2], c=servers[2], n=0, method=0)
+Elevador = NewInput.MMC(lambda=arrivals[3], mu=miu[3], c=servers[3], n=0, method=0)
+
+#Definir las probabilidades de transición
+Red = NewInput.OJN(p,Estacionamiento,Recepcion,Elevador)
+CheckInput(Red)
+Modelo= QueueingModel(Red)
+summary(Modelo)
+```
+```{r pressure, echo=FALSE}
+
+```
+
+
+
